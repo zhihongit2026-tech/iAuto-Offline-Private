@@ -1,0 +1,13 @@
+# Do not publish credentials, local state or binaries
+account.dat
+-iAuto.ini
+*.user
+*.suo
+*.pfx
+*.snk
+*.exe
+*.dll
+*.pdb
+*.zip
+bin/
+obj/
